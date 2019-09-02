@@ -7,7 +7,7 @@ My deep learning codes for my courses...
 - [ ] Convolutional Neural Networks (CNN)
 - [ ] Generatinve Adversarial Networks (GAN)
 
-### Single-Layer Networks
+### Chapter 1: Single-Layer Networks
 The following projects are there...
 1. [TFSingleLayerMNIST_FromScratch](https://github.com/M-H-Amini/DeepLearningCourse/blob/master/TFSingleLayerMNIST_FromScratch.ipynb)
 A single-layer net from scratch (using tensorflow 2) to classify *mnist* dataset
